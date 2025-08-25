@@ -2,8 +2,8 @@
 :root{
     --branco:rgb(0, 0, 0);
     --cor-de-fundo:#00ff15;
-    --fundo-senha:#08bfb9;
-    --fundo-texto:#03bcff;
+    --fundo-senha:#00ff15;
+    --fundo-texto:#03ff18;
     --borda:#f90000;
     --fonte-principal:'Montserrat';
 }
